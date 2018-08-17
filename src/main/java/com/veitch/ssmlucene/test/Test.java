@@ -1,0 +1,12 @@
+package com.veitch.ssmlucene.test;
+
+public class Test {
+
+    @org.junit.Test
+    public void test1(){
+
+    }
+
+
+
+}
